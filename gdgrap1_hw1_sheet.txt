@@ -1,0 +1,22 @@
+A = (0, 10)
+B = (9.5106, 3.0902)
+C = (5.8779, -8.0902)
+D = (-5.8779, -8.0902)
+E = (-9.5106, 3.0902)
+
+SCALE DOWN TO (0, 0.5)
+A = (0, 0.5)
+
+B = (0.4755, 0.1545)
+B = (0.5*(cos(18))f, 0.5*(sin(18))f);
+
+C = (0.2940, -0.4045)
+B = (0.5*(cos(54))f, 0.5*(sin(54))f);
+
+D = (-0.2940, -0.4045)
+B = (-0.5*(cos(54))f, -0.5*(sin(54))f);
+
+E = (-0.4755, 0.4045)
+B = (-0.5*(cos(18))f, 0.5*(sin(18))f);
+
+SOLUTION FOUND AT: https://www.quora.com/How-do-you-find-vertices-coordinates-of-regular-pentagon-given-one-of-the-coordinates-and-centre-geometry-angle-polygons-math
